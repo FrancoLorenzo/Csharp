@@ -1,0 +1,16 @@
+C:\source\repos\C#\Become-a-C#-Developer\Essentials1\3-Operations\bin\Debug\net5.0\3-Operations.exe
+C:\source\repos\C#\Become-a-C#-Developer\Essentials1\3-Operations\bin\Debug\net5.0\3-Operations.deps.json
+C:\source\repos\C#\Become-a-C#-Developer\Essentials1\3-Operations\bin\Debug\net5.0\3-Operations.runtimeconfig.json
+C:\source\repos\C#\Become-a-C#-Developer\Essentials1\3-Operations\bin\Debug\net5.0\3-Operations.runtimeconfig.dev.json
+C:\source\repos\C#\Become-a-C#-Developer\Essentials1\3-Operations\bin\Debug\net5.0\3-Operations.dll
+C:\source\repos\C#\Become-a-C#-Developer\Essentials1\3-Operations\bin\Debug\net5.0\ref\3-Operations.dll
+C:\source\repos\C#\Become-a-C#-Developer\Essentials1\3-Operations\bin\Debug\net5.0\3-Operations.pdb
+C:\source\repos\C#\Become-a-C#-Developer\Essentials1\3-Operations\obj\Debug\net5.0\3-Operations.csprojAssemblyReference.cache
+C:\source\repos\C#\Become-a-C#-Developer\Essentials1\3-Operations\obj\Debug\net5.0\3-Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\C#\Become-a-C#-Developer\Essentials1\3-Operations\obj\Debug\net5.0\3-Operations.AssemblyInfoInputs.cache
+C:\source\repos\C#\Become-a-C#-Developer\Essentials1\3-Operations\obj\Debug\net5.0\3-Operations.AssemblyInfo.cs
+C:\source\repos\C#\Become-a-C#-Developer\Essentials1\3-Operations\obj\Debug\net5.0\3-Operations.csproj.CoreCompileInputs.cache
+C:\source\repos\C#\Become-a-C#-Developer\Essentials1\3-Operations\obj\Debug\net5.0\3-Operations.dll
+C:\source\repos\C#\Become-a-C#-Developer\Essentials1\3-Operations\obj\Debug\net5.0\ref\3-Operations.dll
+C:\source\repos\C#\Become-a-C#-Developer\Essentials1\3-Operations\obj\Debug\net5.0\3-Operations.pdb
+C:\source\repos\C#\Become-a-C#-Developer\Essentials1\3-Operations\obj\Debug\net5.0\3-Operations.genruntimeconfig.cache
