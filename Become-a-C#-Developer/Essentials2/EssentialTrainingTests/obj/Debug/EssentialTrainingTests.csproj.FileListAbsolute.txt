@@ -1,0 +1,16 @@
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials2\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials2\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials2\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials2\EssentialTrainingTests\bin\Debug\EssentialTrainingTests.dll
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials2\EssentialTrainingTests\bin\Debug\EssentialTrainingTests.pdb
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials2\EssentialTrainingTests\bin\Debug\EssentialTraining.dll
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials2\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials2\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials2\EssentialTrainingTests\bin\Debug\EssentialTraining.pdb
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials2\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials2\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials2\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.csprojAssemblyReference.cache
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials2\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials2\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.csproj.CopyComplete
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials2\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.dll
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials2\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.pdb

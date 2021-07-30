@@ -44,6 +44,8 @@ namespace SchoolFormsApp
             this.txtPhoneNumber = new System.Windows.Forms.TextBox();
             this.txtTwitter = new System.Windows.Forms.TextBox();
             this.btnPushToTest = new System.Windows.Forms.Button();
+            this.btnTestTeacher = new System.Windows.Forms.Button();
+            this.btnTestStudent = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -169,11 +171,33 @@ namespace SchoolFormsApp
             this.btnPushToTest.UseVisualStyleBackColor = true;
             this.btnPushToTest.Click += new System.EventHandler(this.btnPushToTest_Click);
             // 
+            // btnTestTeacher
+            // 
+            this.btnTestTeacher.Location = new System.Drawing.Point(146, 320);
+            this.btnTestTeacher.Name = "btnTestTeacher";
+            this.btnTestTeacher.Size = new System.Drawing.Size(150, 34);
+            this.btnTestTeacher.TabIndex = 15;
+            this.btnTestTeacher.Text = "Test Teacher";
+            this.btnTestTeacher.UseVisualStyleBackColor = true;
+            this.btnTestTeacher.Click += new System.EventHandler(this.btnTestTeacher_Click);
+            // 
+            // btnTestStudent
+            // 
+            this.btnTestStudent.Location = new System.Drawing.Point(146, 360);
+            this.btnTestStudent.Name = "btnTestStudent";
+            this.btnTestStudent.Size = new System.Drawing.Size(150, 34);
+            this.btnTestStudent.TabIndex = 16;
+            this.btnTestStudent.Text = "Test Student";
+            this.btnTestStudent.UseVisualStyleBackColor = true;
+            this.btnTestStudent.Click += new System.EventHandler(this.btnTestStudent_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(367, 330);
+            this.ClientSize = new System.Drawing.Size(334, 413);
+            this.Controls.Add(this.btnTestStudent);
+            this.Controls.Add(this.btnTestTeacher);
             this.Controls.Add(this.btnPushToTest);
             this.Controls.Add(this.txtTwitter);
             this.Controls.Add(this.txtPhoneNumber);
@@ -215,6 +239,8 @@ namespace SchoolFormsApp
         private System.Windows.Forms.TextBox txtPhoneNumber;
         private System.Windows.Forms.TextBox txtTwitter;
         private System.Windows.Forms.Button btnPushToTest;
+        private System.Windows.Forms.Button btnTestTeacher;
+        private System.Windows.Forms.Button btnTestStudent;
     }
 }
 

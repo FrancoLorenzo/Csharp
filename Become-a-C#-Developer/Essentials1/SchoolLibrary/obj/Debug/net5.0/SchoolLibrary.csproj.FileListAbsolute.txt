@@ -10,3 +10,15 @@ C:\source\repos\C#\Become-a-C#-Developer\Essentials1\SchoolLibrary\obj\Debug\net
 C:\source\repos\C#\Become-a-C#-Developer\Essentials1\SchoolLibrary\obj\Debug\net5.0\ref\SchoolLibrary.dll
 C:\source\repos\C#\Become-a-C#-Developer\Essentials1\SchoolLibrary\obj\Debug\net5.0\SchoolLibrary.pdb
 C:\source\repos\C#\Become-a-C#-Developer\Essentials1\SchoolLibrary\obj\Debug\net5.0\SchoolLibrary.csprojAssemblyReference.cache
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials1\SchoolLibrary\bin\Debug\net5.0\SchoolLibrary.deps.json
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials1\SchoolLibrary\bin\Debug\net5.0\SchoolLibrary.dll
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials1\SchoolLibrary\bin\Debug\net5.0\ref\SchoolLibrary.dll
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials1\SchoolLibrary\bin\Debug\net5.0\SchoolLibrary.pdb
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials1\SchoolLibrary\obj\Debug\net5.0\SchoolLibrary.csprojAssemblyReference.cache
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials1\SchoolLibrary\obj\Debug\net5.0\SchoolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials1\SchoolLibrary\obj\Debug\net5.0\SchoolLibrary.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials1\SchoolLibrary\obj\Debug\net5.0\SchoolLibrary.AssemblyInfo.cs
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials1\SchoolLibrary\obj\Debug\net5.0\SchoolLibrary.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials1\SchoolLibrary\obj\Debug\net5.0\SchoolLibrary.dll
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials1\SchoolLibrary\obj\Debug\net5.0\ref\SchoolLibrary.dll
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials1\SchoolLibrary\obj\Debug\net5.0\SchoolLibrary.pdb

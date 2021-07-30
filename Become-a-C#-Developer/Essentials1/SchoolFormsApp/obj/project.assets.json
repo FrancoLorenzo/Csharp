@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\repos\\C#\\Become-a-C#-Developer\\Essentials1\\SchoolFormsApp\\SchoolFormsApp.csproj",
+      "projectUniqueName": "C:\\source\\repos\\Csharp\\Become-a-C#-Developer\\Essentials1\\SchoolFormsApp\\SchoolFormsApp.csproj",
       "projectName": "SchoolFormsApp",
-      "projectPath": "C:\\source\\repos\\C#\\Become-a-C#-Developer\\Essentials1\\SchoolFormsApp\\SchoolFormsApp.csproj",
+      "projectPath": "C:\\source\\repos\\Csharp\\Become-a-C#-Developer\\Essentials1\\SchoolFormsApp\\SchoolFormsApp.csproj",
       "packagesPath": "C:\\Users\\florenzooban\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\repos\\C#\\Become-a-C#-Developer\\Essentials1\\SchoolFormsApp\\obj\\",
+      "outputPath": "C:\\source\\repos\\Csharp\\Become-a-C#-Developer\\Essentials1\\SchoolFormsApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -58,8 +58,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\source\\repos\\C#\\Become-a-C#-Developer\\Essentials1\\SchoolLibrary\\SchoolLibrary.csproj": {
-              "projectPath": "C:\\source\\repos\\C#\\Become-a-C#-Developer\\Essentials1\\SchoolLibrary\\SchoolLibrary.csproj"
+            "C:\\source\\repos\\Csharp\\Become-a-C#-Developer\\Essentials1\\SchoolLibrary\\SchoolLibrary.csproj": {
+              "projectPath": "C:\\source\\repos\\Csharp\\Become-a-C#-Developer\\Essentials1\\SchoolLibrary\\SchoolLibrary.csproj"
             }
           }
         }

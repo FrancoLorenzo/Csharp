@@ -1,0 +1,6 @@
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials2\EssentialTraining\bin\Release\EssentialTraining.dll
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials2\EssentialTraining\bin\Release\EssentialTraining.pdb
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials2\EssentialTraining\obj\Release\EssentialTraining.csprojAssemblyReference.cache
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials2\EssentialTraining\obj\Release\EssentialTraining.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials2\EssentialTraining\obj\Release\EssentialTraining.dll
+C:\source\repos\Csharp\Become-a-C#-Developer\Essentials2\EssentialTraining\obj\Release\EssentialTraining.pdb
