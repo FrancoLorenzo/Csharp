@@ -1,0 +1,16 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter01-vscode\HelloCS\bin\Debug\net5.0\HelloCS.exe
+C:\source\repos\Csharp\Csharp10\Code\Chapter01-vscode\HelloCS\bin\Debug\net5.0\HelloCS.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter01-vscode\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter01-vscode\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.dev.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter01-vscode\HelloCS\bin\Debug\net5.0\HelloCS.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter01-vscode\HelloCS\bin\Debug\net5.0\HelloCS.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter01-vscode\HelloCS\obj\Debug\net5.0\HelloCS.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter01-vscode\HelloCS\obj\Debug\net5.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter01-vscode\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter01-vscode\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter01-vscode\HelloCS\obj\Debug\net5.0\HelloCS.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter01-vscode\HelloCS\obj\Debug\net5.0\HelloCS.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter01-vscode\HelloCS\obj\Debug\net5.0\refint\HelloCS.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter01-vscode\HelloCS\obj\Debug\net5.0\HelloCS.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter01-vscode\HelloCS\obj\Debug\net5.0\HelloCS.genruntimeconfig.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter01-vscode\HelloCS\obj\Debug\net5.0\ref\HelloCS.dll

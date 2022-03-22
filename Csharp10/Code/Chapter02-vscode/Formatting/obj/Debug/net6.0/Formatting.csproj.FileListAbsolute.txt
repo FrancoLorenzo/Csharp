@@ -1,0 +1,15 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Formatting\bin\Debug\net6.0\Formatting.exe
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Formatting\bin\Debug\net6.0\Formatting.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Formatting\bin\Debug\net6.0\Formatting.runtimeconfig.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Formatting\bin\Debug\net6.0\Formatting.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Formatting\bin\Debug\net6.0\Formatting.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Formatting\obj\Debug\net6.0\Formatting.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Formatting\obj\Debug\net6.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Formatting\obj\Debug\net6.0\Formatting.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Formatting\obj\Debug\net6.0\Formatting.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Formatting\obj\Debug\net6.0\Formatting.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Formatting\obj\Debug\net6.0\Formatting.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Formatting\obj\Debug\net6.0\refint\Formatting.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Formatting\obj\Debug\net6.0\Formatting.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Formatting\obj\Debug\net6.0\Formatting.genruntimeconfig.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Formatting\obj\Debug\net6.0\ref\Formatting.dll

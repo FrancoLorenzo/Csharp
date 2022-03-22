@@ -1,0 +1,15 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Variables\obj\Debug\net6.0\Variables.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Variables\obj\Debug\net6.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Variables\obj\Debug\net6.0\Variables.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Variables\obj\Debug\net6.0\Variables.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Variables\obj\Debug\net6.0\Variables.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Variables\bin\Debug\net6.0\Variables.exe
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Variables\bin\Debug\net6.0\Variables.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Variables\bin\Debug\net6.0\Variables.runtimeconfig.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Variables\bin\Debug\net6.0\Variables.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Variables\bin\Debug\net6.0\Variables.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Variables\obj\Debug\net6.0\Variables.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Variables\obj\Debug\net6.0\refint\Variables.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Variables\obj\Debug\net6.0\Variables.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Variables\obj\Debug\net6.0\Variables.genruntimeconfig.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter02-vscode\Variables\obj\Debug\net6.0\ref\Variables.dll
