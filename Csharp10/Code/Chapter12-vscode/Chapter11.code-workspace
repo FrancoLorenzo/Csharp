@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "MonitoringLib"
+		},
+		{
+			"path": "MonitoringApp"
+		},
+		{
+			"path": "Benchmarking"
+		},
+		{
+			"path": "WorkingWithTasks"
+		},
+		{
+			"path": "NestedAndChildTasks"
+		},
+		{
+			"path": "SynchronizingResourceAccess"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\NullHandling\obj\Debug\net6.0\NullHandling.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\NullHandling\obj\Debug\net6.0\NullHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\NullHandling\obj\Debug\net6.0\NullHandling.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\NullHandling\obj\Debug\net6.0\NullHandling.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\NullHandling\obj\Debug\net6.0\NullHandling.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\NullHandling\bin\Debug\net6.0\NullHandling.exe
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\NullHandling\bin\Debug\net6.0\NullHandling.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\NullHandling\bin\Debug\net6.0\NullHandling.runtimeconfig.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\NullHandling\bin\Debug\net6.0\NullHandling.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\NullHandling\bin\Debug\net6.0\NullHandling.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\NullHandling\obj\Debug\net6.0\NullHandling.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\NullHandling\obj\Debug\net6.0\refint\NullHandling.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\NullHandling\obj\Debug\net6.0\NullHandling.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\NullHandling\obj\Debug\net6.0\NullHandling.genruntimeconfig.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\NullHandling\obj\Debug\net6.0\ref\NullHandling.dll

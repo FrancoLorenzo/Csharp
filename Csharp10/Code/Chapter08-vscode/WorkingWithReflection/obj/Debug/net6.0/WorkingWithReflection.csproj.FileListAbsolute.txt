@@ -1,0 +1,15 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithReflection\bin\Debug\net6.0\WorkingWithReflection.exe
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithReflection\bin\Debug\net6.0\WorkingWithReflection.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithReflection\bin\Debug\net6.0\WorkingWithReflection.runtimeconfig.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithReflection\bin\Debug\net6.0\WorkingWithReflection.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithReflection\bin\Debug\net6.0\WorkingWithReflection.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithReflection\obj\Debug\net6.0\refint\WorkingWithReflection.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.genruntimeconfig.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithReflection\obj\Debug\net6.0\ref\WorkingWithReflection.dll

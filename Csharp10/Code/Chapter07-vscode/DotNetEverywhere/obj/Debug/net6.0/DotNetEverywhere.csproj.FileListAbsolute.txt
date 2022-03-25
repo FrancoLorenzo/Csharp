@@ -1,0 +1,15 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter07-vscode\DotNetEverywhere\bin\Debug\net6.0\DotNetEverywhere.exe
+C:\source\repos\Csharp\Csharp10\Code\Chapter07-vscode\DotNetEverywhere\bin\Debug\net6.0\DotNetEverywhere.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter07-vscode\DotNetEverywhere\bin\Debug\net6.0\DotNetEverywhere.runtimeconfig.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter07-vscode\DotNetEverywhere\bin\Debug\net6.0\DotNetEverywhere.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter07-vscode\DotNetEverywhere\bin\Debug\net6.0\DotNetEverywhere.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter07-vscode\DotNetEverywhere\obj\Debug\net6.0\DotNetEverywhere.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter07-vscode\DotNetEverywhere\obj\Debug\net6.0\DotNetEverywhere.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter07-vscode\DotNetEverywhere\obj\Debug\net6.0\DotNetEverywhere.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter07-vscode\DotNetEverywhere\obj\Debug\net6.0\DotNetEverywhere.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter07-vscode\DotNetEverywhere\obj\Debug\net6.0\DotNetEverywhere.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter07-vscode\DotNetEverywhere\obj\Debug\net6.0\DotNetEverywhere.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter07-vscode\DotNetEverywhere\obj\Debug\net6.0\refint\DotNetEverywhere.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter07-vscode\DotNetEverywhere\obj\Debug\net6.0\DotNetEverywhere.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter07-vscode\DotNetEverywhere\obj\Debug\net6.0\DotNetEverywhere.genruntimeconfig.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter07-vscode\DotNetEverywhere\obj\Debug\net6.0\ref\DotNetEverywhere.dll

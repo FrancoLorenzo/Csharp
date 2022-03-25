@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KVjvwn3OJnx89HAufO9SoCzD/yHSfz4LSi9MkVx6idyQw48RZyH+beyvseqQIJJdB9ezFDOzhBb3lllYeLRg1A==",
+  "success": true,
+  "projectFilePath": "C:\\source\\repos\\Csharp\\Csharp10\\Code\\Chapter06-vscode\\CodeAnalyzing\\CodeAnalyzing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\florenzooban\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

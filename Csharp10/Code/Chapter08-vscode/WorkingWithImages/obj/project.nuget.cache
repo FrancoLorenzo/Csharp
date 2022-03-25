@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iEgcLW59J2OW6tOyuMgmI3KLYHTN8BDrlBhvQPJJpMf3r36JqwtlTQ7Vl0FPtwKAq9kHzJsoFb84sD67ap+hXA==",
+  "success": true,
+  "projectFilePath": "C:\\source\\repos\\Csharp\\Csharp10\\Code\\Chapter08-vscode\\WorkingWithImages\\WorkingWithImages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\florenzooban\\.nuget\\packages\\sixlabors.imagesharp\\1.0.3\\sixlabors.imagesharp.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

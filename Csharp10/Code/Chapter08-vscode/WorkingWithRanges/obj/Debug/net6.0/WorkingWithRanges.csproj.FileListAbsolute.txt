@@ -1,0 +1,15 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRanges\bin\Debug\net6.0\WorkingWithRanges.exe
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRanges\bin\Debug\net6.0\WorkingWithRanges.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRanges\bin\Debug\net6.0\WorkingWithRanges.runtimeconfig.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRanges\bin\Debug\net6.0\WorkingWithRanges.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRanges\bin\Debug\net6.0\WorkingWithRanges.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRanges\obj\Debug\net6.0\WorkingWithRanges.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRanges\obj\Debug\net6.0\WorkingWithRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRanges\obj\Debug\net6.0\WorkingWithRanges.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRanges\obj\Debug\net6.0\WorkingWithRanges.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRanges\obj\Debug\net6.0\WorkingWithRanges.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRanges\obj\Debug\net6.0\WorkingWithRanges.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRanges\obj\Debug\net6.0\refint\WorkingWithRanges.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRanges\obj\Debug\net6.0\WorkingWithRanges.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRanges\obj\Debug\net6.0\WorkingWithRanges.genruntimeconfig.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRanges\obj\Debug\net6.0\ref\WorkingWithRanges.dll

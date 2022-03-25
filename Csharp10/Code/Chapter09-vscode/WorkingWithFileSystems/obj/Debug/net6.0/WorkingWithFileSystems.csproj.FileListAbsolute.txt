@@ -1,0 +1,15 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter09-vscode\WorkingWithFileSystems\bin\Debug\net6.0\WorkingWithFileSystems.exe
+C:\source\repos\Csharp\Csharp10\Code\Chapter09-vscode\WorkingWithFileSystems\bin\Debug\net6.0\WorkingWithFileSystems.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter09-vscode\WorkingWithFileSystems\bin\Debug\net6.0\WorkingWithFileSystems.runtimeconfig.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter09-vscode\WorkingWithFileSystems\bin\Debug\net6.0\WorkingWithFileSystems.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter09-vscode\WorkingWithFileSystems\bin\Debug\net6.0\WorkingWithFileSystems.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter09-vscode\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter09-vscode\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter09-vscode\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter09-vscode\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter09-vscode\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter09-vscode\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter09-vscode\WorkingWithFileSystems\obj\Debug\net6.0\refint\WorkingWithFileSystems.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter09-vscode\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter09-vscode\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.genruntimeconfig.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter09-vscode\WorkingWithFileSystems\obj\Debug\net6.0\ref\WorkingWithFileSystems.dll

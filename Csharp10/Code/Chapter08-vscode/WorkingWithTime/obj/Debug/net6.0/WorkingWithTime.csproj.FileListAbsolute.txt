@@ -1,0 +1,15 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithTime\bin\Debug\net6.0\WorkingWithTime.exe
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithTime\bin\Debug\net6.0\WorkingWithTime.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithTime\bin\Debug\net6.0\WorkingWithTime.runtimeconfig.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithTime\bin\Debug\net6.0\WorkingWithTime.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithTime\bin\Debug\net6.0\WorkingWithTime.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithTime\obj\Debug\net6.0\WorkingWithTime.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithTime\obj\Debug\net6.0\WorkingWithTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithTime\obj\Debug\net6.0\WorkingWithTime.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithTime\obj\Debug\net6.0\WorkingWithTime.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithTime\obj\Debug\net6.0\WorkingWithTime.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithTime\obj\Debug\net6.0\WorkingWithTime.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithTime\obj\Debug\net6.0\refint\WorkingWithTime.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithTime\obj\Debug\net6.0\WorkingWithTime.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithTime\obj\Debug\net6.0\WorkingWithTime.genruntimeconfig.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithTime\obj\Debug\net6.0\ref\WorkingWithTime.dll

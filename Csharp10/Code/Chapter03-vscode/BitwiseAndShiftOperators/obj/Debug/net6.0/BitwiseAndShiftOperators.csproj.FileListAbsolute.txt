@@ -1,0 +1,15 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BitwiseAndShiftOperators\bin\Debug\net6.0\BitwiseAndShiftOperators.exe
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BitwiseAndShiftOperators\bin\Debug\net6.0\BitwiseAndShiftOperators.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BitwiseAndShiftOperators\bin\Debug\net6.0\BitwiseAndShiftOperators.runtimeconfig.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BitwiseAndShiftOperators\bin\Debug\net6.0\BitwiseAndShiftOperators.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BitwiseAndShiftOperators\bin\Debug\net6.0\BitwiseAndShiftOperators.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BitwiseAndShiftOperators\obj\Debug\net6.0\BitwiseAndShiftOperators.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BitwiseAndShiftOperators\obj\Debug\net6.0\BitwiseAndShiftOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BitwiseAndShiftOperators\obj\Debug\net6.0\BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BitwiseAndShiftOperators\obj\Debug\net6.0\BitwiseAndShiftOperators.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BitwiseAndShiftOperators\obj\Debug\net6.0\BitwiseAndShiftOperators.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BitwiseAndShiftOperators\obj\Debug\net6.0\BitwiseAndShiftOperators.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BitwiseAndShiftOperators\obj\Debug\net6.0\refint\BitwiseAndShiftOperators.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BitwiseAndShiftOperators\obj\Debug\net6.0\BitwiseAndShiftOperators.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BitwiseAndShiftOperators\obj\Debug\net6.0\BitwiseAndShiftOperators.genruntimeconfig.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BitwiseAndShiftOperators\obj\Debug\net6.0\ref\BitwiseAndShiftOperators.dll

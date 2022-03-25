@@ -1,0 +1,17 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\CodeAnalyzing\bin\Debug\net6.0\CodeAnalyzing.exe
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\CodeAnalyzing\bin\Debug\net6.0\CodeAnalyzing.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\CodeAnalyzing\bin\Debug\net6.0\CodeAnalyzing.runtimeconfig.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\CodeAnalyzing\bin\Debug\net6.0\CodeAnalyzing.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\CodeAnalyzing\bin\Debug\net6.0\CodeAnalyzing.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\CodeAnalyzing\obj\Debug\net6.0\refint\CodeAnalyzing.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.genruntimeconfig.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\CodeAnalyzing\obj\Debug\net6.0\ref\CodeAnalyzing.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\CodeAnalyzing\bin\Debug\net6.0\CodeAnalyzing.xml
+C:\source\repos\Csharp\Csharp10\Code\Chapter06-vscode\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.xml

@@ -1,0 +1,15 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter11-vscode\LinqWithSets\bin\Debug\net6.0\LinqWithSets.exe
+C:\source\repos\Csharp\Csharp10\Code\Chapter11-vscode\LinqWithSets\bin\Debug\net6.0\LinqWithSets.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter11-vscode\LinqWithSets\bin\Debug\net6.0\LinqWithSets.runtimeconfig.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter11-vscode\LinqWithSets\bin\Debug\net6.0\LinqWithSets.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter11-vscode\LinqWithSets\bin\Debug\net6.0\LinqWithSets.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter11-vscode\LinqWithSets\obj\Debug\net6.0\LinqWithSets.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter11-vscode\LinqWithSets\obj\Debug\net6.0\LinqWithSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter11-vscode\LinqWithSets\obj\Debug\net6.0\LinqWithSets.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter11-vscode\LinqWithSets\obj\Debug\net6.0\LinqWithSets.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter11-vscode\LinqWithSets\obj\Debug\net6.0\LinqWithSets.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter11-vscode\LinqWithSets\obj\Debug\net6.0\LinqWithSets.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter11-vscode\LinqWithSets\obj\Debug\net6.0\refint\LinqWithSets.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter11-vscode\LinqWithSets\obj\Debug\net6.0\LinqWithSets.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter11-vscode\LinqWithSets\obj\Debug\net6.0\LinqWithSets.genruntimeconfig.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter11-vscode\LinqWithSets\obj\Debug\net6.0\ref\LinqWithSets.dll

@@ -1,0 +1,15 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\NestedAndChildTasks\bin\Debug\net6.0\NestedAndChildTasks.exe
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\NestedAndChildTasks\bin\Debug\net6.0\NestedAndChildTasks.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\NestedAndChildTasks\bin\Debug\net6.0\NestedAndChildTasks.runtimeconfig.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\NestedAndChildTasks\bin\Debug\net6.0\NestedAndChildTasks.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\NestedAndChildTasks\bin\Debug\net6.0\NestedAndChildTasks.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\NestedAndChildTasks\obj\Debug\net6.0\refint\NestedAndChildTasks.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.genruntimeconfig.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\NestedAndChildTasks\obj\Debug\net6.0\ref\NestedAndChildTasks.dll

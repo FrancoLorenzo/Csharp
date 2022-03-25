@@ -1,0 +1,10 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter07-vscode\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter07-vscode\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter07-vscode\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter07-vscode\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter07-vscode\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter07-vscode\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter07-vscode\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter07-vscode\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter07-vscode\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter07-vscode\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.pdb

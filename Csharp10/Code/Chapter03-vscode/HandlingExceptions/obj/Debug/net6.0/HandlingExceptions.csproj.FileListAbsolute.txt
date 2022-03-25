@@ -1,0 +1,15 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.exe
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.runtimeconfig.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\HandlingExceptions\obj\Debug\net6.0\refint\HandlingExceptions.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.genruntimeconfig.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\HandlingExceptions\obj\Debug\net6.0\ref\HandlingExceptions.dll

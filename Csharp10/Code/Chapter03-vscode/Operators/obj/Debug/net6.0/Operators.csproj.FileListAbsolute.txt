@@ -1,0 +1,15 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\Operators.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\Operators.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\Operators.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\Operators.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\Operators\bin\Debug\net6.0\Operators.exe
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\Operators\bin\Debug\net6.0\Operators.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\Operators\bin\Debug\net6.0\Operators.runtimeconfig.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\Operators\bin\Debug\net6.0\Operators.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\Operators\bin\Debug\net6.0\Operators.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\Operators.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\refint\Operators.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\Operators.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\Operators.genruntimeconfig.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\ref\Operators.dll

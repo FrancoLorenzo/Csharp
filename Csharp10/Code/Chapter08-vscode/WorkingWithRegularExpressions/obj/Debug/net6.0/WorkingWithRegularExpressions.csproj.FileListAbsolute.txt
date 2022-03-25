@@ -1,0 +1,15 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRegularExpressions\bin\Debug\net6.0\WorkingWithRegularExpressions.exe
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRegularExpressions\bin\Debug\net6.0\WorkingWithRegularExpressions.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRegularExpressions\bin\Debug\net6.0\WorkingWithRegularExpressions.runtimeconfig.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRegularExpressions\bin\Debug\net6.0\WorkingWithRegularExpressions.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRegularExpressions\bin\Debug\net6.0\WorkingWithRegularExpressions.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRegularExpressions\obj\Debug\net6.0\refint\WorkingWithRegularExpressions.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.genruntimeconfig.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithRegularExpressions\obj\Debug\net6.0\ref\WorkingWithRegularExpressions.dll

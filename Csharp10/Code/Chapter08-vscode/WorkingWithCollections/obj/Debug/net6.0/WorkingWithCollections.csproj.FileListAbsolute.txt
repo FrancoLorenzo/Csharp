@@ -1,0 +1,15 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.exe
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.runtimeconfig.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithCollections\obj\Debug\net6.0\refint\WorkingWithCollections.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.genruntimeconfig.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithCollections\obj\Debug\net6.0\ref\WorkingWithCollections.dll

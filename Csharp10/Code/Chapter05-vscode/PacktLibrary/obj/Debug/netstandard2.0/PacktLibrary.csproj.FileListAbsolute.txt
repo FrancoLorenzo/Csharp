@@ -1,0 +1,10 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter05-vscode\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter05-vscode\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter05-vscode\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter05-vscode\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter05-vscode\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter05-vscode\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter05-vscode\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter05-vscode\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter05-vscode\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter05-vscode\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.pdb

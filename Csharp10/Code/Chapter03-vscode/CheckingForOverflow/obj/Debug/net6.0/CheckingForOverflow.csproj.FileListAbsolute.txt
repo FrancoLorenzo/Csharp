@@ -1,0 +1,15 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\CheckingForOverflow\obj\Debug\net6.0\CheckingForOverflow.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\CheckingForOverflow\obj\Debug\net6.0\CheckingForOverflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\CheckingForOverflow\obj\Debug\net6.0\CheckingForOverflow.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\CheckingForOverflow\obj\Debug\net6.0\CheckingForOverflow.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\CheckingForOverflow\obj\Debug\net6.0\CheckingForOverflow.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\CheckingForOverflow\bin\Debug\net6.0\CheckingForOverflow.exe
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\CheckingForOverflow\bin\Debug\net6.0\CheckingForOverflow.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\CheckingForOverflow\bin\Debug\net6.0\CheckingForOverflow.runtimeconfig.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\CheckingForOverflow\bin\Debug\net6.0\CheckingForOverflow.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\CheckingForOverflow\bin\Debug\net6.0\CheckingForOverflow.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\CheckingForOverflow\obj\Debug\net6.0\CheckingForOverflow.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\CheckingForOverflow\obj\Debug\net6.0\refint\CheckingForOverflow.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\CheckingForOverflow\obj\Debug\net6.0\CheckingForOverflow.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\CheckingForOverflow\obj\Debug\net6.0\CheckingForOverflow.genruntimeconfig.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\CheckingForOverflow\obj\Debug\net6.0\ref\CheckingForOverflow.dll

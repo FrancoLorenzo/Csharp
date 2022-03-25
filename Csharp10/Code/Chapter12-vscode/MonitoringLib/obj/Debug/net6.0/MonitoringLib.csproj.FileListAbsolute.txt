@@ -1,0 +1,12 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\MonitoringLib\bin\Debug\net6.0\MonitoringLib.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\MonitoringLib\bin\Debug\net6.0\MonitoringLib.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\MonitoringLib\bin\Debug\net6.0\MonitoringLib.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\MonitoringLib\obj\Debug\net6.0\MonitoringLib.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\MonitoringLib\obj\Debug\net6.0\MonitoringLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\MonitoringLib\obj\Debug\net6.0\MonitoringLib.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\MonitoringLib\obj\Debug\net6.0\MonitoringLib.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\MonitoringLib\obj\Debug\net6.0\MonitoringLib.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\MonitoringLib\obj\Debug\net6.0\MonitoringLib.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\MonitoringLib\obj\Debug\net6.0\refint\MonitoringLib.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\MonitoringLib\obj\Debug\net6.0\MonitoringLib.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter12-vscode\MonitoringLib\obj\Debug\net6.0\ref\MonitoringLib.dll

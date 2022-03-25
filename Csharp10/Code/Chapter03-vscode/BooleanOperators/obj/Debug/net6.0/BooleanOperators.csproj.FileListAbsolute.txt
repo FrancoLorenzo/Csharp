@@ -1,0 +1,15 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BooleanOperators\bin\Debug\net6.0\BooleanOperators.exe
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BooleanOperators\bin\Debug\net6.0\BooleanOperators.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BooleanOperators\bin\Debug\net6.0\BooleanOperators.runtimeconfig.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BooleanOperators\bin\Debug\net6.0\BooleanOperators.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BooleanOperators\bin\Debug\net6.0\BooleanOperators.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BooleanOperators\obj\Debug\net6.0\BooleanOperators.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BooleanOperators\obj\Debug\net6.0\BooleanOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BooleanOperators\obj\Debug\net6.0\BooleanOperators.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BooleanOperators\obj\Debug\net6.0\BooleanOperators.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BooleanOperators\obj\Debug\net6.0\BooleanOperators.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BooleanOperators\obj\Debug\net6.0\BooleanOperators.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BooleanOperators\obj\Debug\net6.0\refint\BooleanOperators.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BooleanOperators\obj\Debug\net6.0\BooleanOperators.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BooleanOperators\obj\Debug\net6.0\BooleanOperators.genruntimeconfig.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter03-vscode\BooleanOperators\obj\Debug\net6.0\ref\BooleanOperators.dll

@@ -1,0 +1,17 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithImages\bin\Debug\net6.0\WorkingWithImages.exe
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithImages\bin\Debug\net6.0\WorkingWithImages.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithImages\bin\Debug\net6.0\WorkingWithImages.runtimeconfig.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithImages\bin\Debug\net6.0\WorkingWithImages.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithImages\bin\Debug\net6.0\WorkingWithImages.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithImages\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithImages\obj\Debug\net6.0\WorkingWithImages.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithImages\obj\Debug\net6.0\WorkingWithImages.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithImages\obj\Debug\net6.0\WorkingWithImages.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithImages\obj\Debug\net6.0\WorkingWithImages.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithImages\obj\Debug\net6.0\WorkingWithImages.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithImages\obj\Debug\net6.0\WorkingWithImages.csproj.CopyComplete
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithImages\obj\Debug\net6.0\WorkingWithImages.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithImages\obj\Debug\net6.0\refint\WorkingWithImages.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithImages\obj\Debug\net6.0\WorkingWithImages.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithImages\obj\Debug\net6.0\WorkingWithImages.genruntimeconfig.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithImages\obj\Debug\net6.0\ref\WorkingWithImages.dll

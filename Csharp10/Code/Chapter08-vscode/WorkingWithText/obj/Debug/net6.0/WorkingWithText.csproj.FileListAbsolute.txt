@@ -1,0 +1,15 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithText\bin\Debug\net6.0\WorkingWithText.exe
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithText\bin\Debug\net6.0\WorkingWithText.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithText\bin\Debug\net6.0\WorkingWithText.runtimeconfig.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithText\bin\Debug\net6.0\WorkingWithText.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithText\bin\Debug\net6.0\WorkingWithText.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithText\obj\Debug\net6.0\WorkingWithText.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithText\obj\Debug\net6.0\WorkingWithText.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithText\obj\Debug\net6.0\WorkingWithText.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithText\obj\Debug\net6.0\WorkingWithText.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithText\obj\Debug\net6.0\WorkingWithText.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithText\obj\Debug\net6.0\WorkingWithText.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithText\obj\Debug\net6.0\refint\WorkingWithText.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithText\obj\Debug\net6.0\WorkingWithText.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithText\obj\Debug\net6.0\WorkingWithText.genruntimeconfig.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithText\obj\Debug\net6.0\ref\WorkingWithText.dll

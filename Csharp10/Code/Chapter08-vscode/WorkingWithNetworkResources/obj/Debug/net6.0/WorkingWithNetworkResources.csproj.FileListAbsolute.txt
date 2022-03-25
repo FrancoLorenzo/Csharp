@@ -1,0 +1,15 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithNetworkResources\bin\Debug\net6.0\WorkingWithNetworkResources.exe
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithNetworkResources\bin\Debug\net6.0\WorkingWithNetworkResources.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithNetworkResources\bin\Debug\net6.0\WorkingWithNetworkResources.runtimeconfig.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithNetworkResources\bin\Debug\net6.0\WorkingWithNetworkResources.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithNetworkResources\bin\Debug\net6.0\WorkingWithNetworkResources.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithNetworkResources\obj\Debug\net6.0\refint\WorkingWithNetworkResources.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.genruntimeconfig.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\WorkingWithNetworkResources\obj\Debug\net6.0\ref\WorkingWithNetworkResources.dll

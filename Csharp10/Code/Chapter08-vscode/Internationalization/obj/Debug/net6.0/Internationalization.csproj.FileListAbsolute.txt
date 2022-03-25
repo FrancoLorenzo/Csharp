@@ -1,0 +1,15 @@
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\Internationalization\bin\Debug\net6.0\Internationalization.exe
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\Internationalization\bin\Debug\net6.0\Internationalization.deps.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\Internationalization\bin\Debug\net6.0\Internationalization.runtimeconfig.json
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\Internationalization\bin\Debug\net6.0\Internationalization.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\Internationalization\bin\Debug\net6.0\Internationalization.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\Internationalization\obj\Debug\net6.0\Internationalization.csproj.AssemblyReference.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\Internationalization\obj\Debug\net6.0\Internationalization.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\Internationalization\obj\Debug\net6.0\Internationalization.AssemblyInfoInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\Internationalization\obj\Debug\net6.0\Internationalization.AssemblyInfo.cs
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\Internationalization\obj\Debug\net6.0\Internationalization.csproj.CoreCompileInputs.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\Internationalization\obj\Debug\net6.0\Internationalization.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\Internationalization\obj\Debug\net6.0\refint\Internationalization.dll
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\Internationalization\obj\Debug\net6.0\Internationalization.pdb
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\Internationalization\obj\Debug\net6.0\Internationalization.genruntimeconfig.cache
+C:\source\repos\Csharp\Csharp10\Code\Chapter08-vscode\Internationalization\obj\Debug\net6.0\ref\Internationalization.dll
